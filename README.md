@@ -73,16 +73,4 @@ This project is a starting point for a Flutter application focused on creating a
 | Seat Selection         | <img src="assets/ss/seat.png" width="200">|
 | Account Page           | <img src="assets/ss/account.png" width="200">   |
 
-## Contribution
 
-We greatly appreciate your contributions! If you would like to contribute to this project, please create a pull request or open an issue for discussion.
-
-## License
-
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International Public License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact us at [email](mailto:cb7ezeur@selenakuyang.anonaddy.com).
-
-Thank you for using Flutter Cinema Booking UI!
