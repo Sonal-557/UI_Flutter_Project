@@ -25,8 +25,6 @@ This project is a starting point for a Flutter application focused on creating a
 - Dart SDK: Included with Flutter
 - IDE with Flutter support (e.g., Android Studio, IntelliJ, VS Code)
 
-1. Clone the repository:
-
 2. Navigate to the project directory:
 
     ```bash
