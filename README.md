@@ -65,6 +65,7 @@ This project is a starting point for a Flutter application focused on creating a
 | Category Movie         | <img src="assets/ss/cateMovie.png" width="200">|
 | Movie Details         | <img src="assets/ss/movieDetail.png" width="200">   |
 | Seat Selection         | <img src="assets/ss/seat.png" width="200">|
-| Account Page           | <img src="assets/ss/account.png" width="200">   |
+| Account Page           | <img width="1452" height="867" alt="image" src="https://github.com/user-attachments/assets/1ab341b7-dc53-4ad1-9f7d-42a36807a496" />
+   |
 
 
